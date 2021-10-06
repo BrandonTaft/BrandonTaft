@@ -1,4 +1,12 @@
 [![Header](https://raw.githubusercontent.com/BrandonTaft/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/brandonmtaft//)
+[![Social banner for jh3y](https://github.com/BrandonTaft/BrandonTaft/raw/master/header-banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jhey.
+</p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 ### Hi there 👋
 
