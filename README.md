@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/BrandonTaft/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/brandonmtaft//)
+
 ### Hi there 👋
 
 <!--
