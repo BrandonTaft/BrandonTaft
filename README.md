@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/BrandonTaft/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/brandonmtaft//)
-[![Social banner for jh3y](https://github.com/BrandonTaft/BrandonTaft/raw/master/header-banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
+[](https://github.com/BrandonTaft/BrandonTaft/header-banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
