@@ -1,10 +1,10 @@
-[![Header](https://raw.githubusercontent.com/BrandonTaft/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/brandonmtaft//)
-[![](https://github.com/BrandonTaft/BrandonTaft/blob/main/header-banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
+
+[![](https://github.com/BrandonTaft/BrandonTaft/blob/main/banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Jhey.
+I'm Brandon.
 </p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+<p align='center'>For enquiries, reach out at btaftcan@gmail.com or over on <a href="https://www.linkedin.com/in/brandonmtaft">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
