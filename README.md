@@ -1,5 +1,5 @@
 
-[![](https://github.com/BrandonTaft/BrandonTaft/blob/main/banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
+[![](https://github.com/BrandonTaft/BrandonTaft/blob/main/clean_banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Brandon.
