@@ -35,16 +35,30 @@ I'm Brandon.
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/visualstudio-plain.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sequelize-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/react-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/redux-original.svg" />
+</a><a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/python-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/postgresql-original.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/npm-original-wordmark.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/nodejs-original.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/mongodb-original-wordmark.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sass-original.svg" />
 </a>
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRANDONTAFT&theme=<THEME_NAME>" />
