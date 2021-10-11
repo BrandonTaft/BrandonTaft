@@ -26,7 +26,7 @@ I'm Brandon.
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/git-original-wordmark.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img color:white width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/github-original-wordmark.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/GitHub-Mark-Light-64px.png" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/heroku-original-wordmark.svg" />
