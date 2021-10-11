@@ -5,11 +5,11 @@
 
 
 
-<h1 align='center'> Hi! I'm Brandon:wave:</h1>
+<h3 text-decoration:none align='center'> Hi! I'm Brandon Taft:wave:</h3>
+<p align='center'>I am a Software Engineer currently enrolled in a Web Development course at Digital Crafts.</p>
+<p align='center'>For enquiries or empolyment oppurtunities, please reach out at <a href="btaftcan@gmail.com">Btaftcan@gmail.com</a> or over on <a href="https://www.linkedin.com/in/brandonmtaft">LinkedIn</a>.</p>
 
-<p align='center'>For enquiries, reach out at btaftcan@gmail.com or over on <a href="https://www.linkedin.com/in/brandonmtaft">LinkedIn</a>.</p>
-
-<h1 align='center'>Stay awesome!</h1>
+<h2 align='center'>Have A Great Day!</h2>
 
 
 
