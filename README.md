@@ -20,7 +20,7 @@ I'm Brandon.
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/bootstrap-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/css3-original-wordmark.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/css3-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
