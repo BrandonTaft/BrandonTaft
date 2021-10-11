@@ -85,14 +85,15 @@
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Videogame-Inventory-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
 </a>
+<br></br>
 
 ## Connect With Me
 
 <p align="center">
-<a href="https://brandontaft.me"><img src="https://img.shields.io/badge/-brandontaft.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/brandonmtaft"><img src="https://img.shields.io/badge/-Brandon Taft-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:btaftcan@gmail.com"><img src="https://img.shields.io/badge/-btaftcan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a  href="https://brandontaft.me"><img height="30" src="https://img.shields.io/badge/-brandontaft.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/brandonmtaft"><img height="30" src="https://img.shields.io/badge/-Brandon Taft-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:btaftcan@gmail.com"><img height="30" src="https://img.shields.io/badge/-btaftcan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 
 <!--
