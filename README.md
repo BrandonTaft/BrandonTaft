@@ -21,9 +21,6 @@
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="95" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/javascript-original.svg" />
   </a>  
-  <a href="https://www.linkedin.com/in/brandonmtaft" style="margin:100px">
-  <img width="95" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
-  </a>  
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="95" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/bootstrap-original.svg" />
   </a>
