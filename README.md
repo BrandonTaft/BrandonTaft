@@ -9,12 +9,12 @@
 <p align='center'>I am a Software Engineer currently enrolled in a Web Development course at Digital Crafts.</p>
 <p align='center'>For enquiries or empolyment oppurtunities, please reach out at <a href="btaftcan@gmail.com">Btaftcan@gmail.com</a> or over on <a href="https://www.linkedin.com/in/brandonmtaft">LinkedIn</a>.</p>
 
-<h2 align='center'>Have A Great Day!</h2>
+<h3 align='center'>I Hope You Have A Great Day!</h3>
 
 
-
-<h4>Things I've Learned</h4>
 <br></br>
+<h2>Things I've Learned </h2>
+
 
 <div align='center'>
   
@@ -70,12 +70,28 @@
   </a>
   
 </div>
+<br></br>
+
+<h2>My Stats</h2>
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRANDONTAFT&theme=<THEME_NAME>" />
+
+<img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BRANDONTAFT&theme=radical&layout=compact&exclude_lang=java+r" />
+
 <a href="https://github.com/BRANDONTAFT/VIDEOGAME-INVENTORY-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Videogame-Inventory-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="49%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Videogame-Inventory-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/BRANDONTAFT/VIDEOGAME-INVENTORY-APP">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Videogame-Inventory-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  
+</a>
+
+## Connect With Me
+
+<p align="center">
+<a href="https://brandontaft.me"><img src="https://img.shields.io/badge/-brandontaft.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/brandonmtaft"><img src="https://img.shields.io/badge/-Brandon Taft-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:btaftcan@gmail.com"><img src="https://img.shields.io/badge/-btaftcan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
