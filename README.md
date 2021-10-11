@@ -12,7 +12,10 @@ I'm Brandon.
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRANDONTAFT&theme=<THEME_NAME>" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&theme=<THEME_NAME>" />
+<a href="https://github.com/BRANDONTAFT/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 
 
