@@ -5,7 +5,7 @@
 
 
 
-<h3 text-decoration:none align='center'> Hi! I'm Brandon Taft:wave:</h3>
+<h3 text-decoration:none align='center'> Hi! I'm Brandon Taft</h3> <img src=""
 <p align='center'>I am a Software Engineer currently enrolled in a Web Development course at Digital Crafts.</p>
 <p align='center'>For enquiries or empolyment oppurtunities, please reach out at <a href="btaftcan@gmail.com">Btaftcan@gmail.com</a> or over on <a href="https://www.linkedin.com/in/brandonmtaft">LinkedIn</a>.</p>
 
