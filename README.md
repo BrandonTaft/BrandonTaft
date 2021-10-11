@@ -11,25 +11,25 @@ I'm Brandon.
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/javascript-original.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/javascript-original.svg" />
 </a>  
  <a href="https://www.linkedin.com/in/brandonmtaft" style="margin:100px">
-  <img width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/html5-original-wordmark.svg" />
+  <img width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/html5-original-wordmark.svg" />
 </a>  
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/bootstrap-original.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/bootstrap-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/css3-original-wordmark.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/css3-original-wordmark.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/git-original-wordmark.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original-wordmark.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/GitHub-Mark-Light-64px.png" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/GitHub-Mark-Light-64px.png" />
 </a>
 <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/heroku-original-wordmark.svg" />
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/heroku-original-wordmark.svg" />
 </a>
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)-->
