@@ -14,7 +14,7 @@ I'm Brandon.
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/javascript-original.svg" />
 </a>  
  <a href="https://www.linkedin.com/in/brandonmtaft" style="margin:100px">
-  <img width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/html5-original-wordmark.svg" />
+  <img width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
 </a>  
 <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/bootstrap-original.svg" />
