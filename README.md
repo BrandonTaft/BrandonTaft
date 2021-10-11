@@ -10,7 +10,27 @@ I'm Brandon.
 
 ### Hi there 👋
 
-[![](https://github.com/BrandonTaft/BrandonTaft/blob/main/)](https://www.linkedin.com/in/brandonmtaft//)
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/javascript-original.svg" />
+</a>  
+ <a href="https://www.linkedin.com/in/brandonmtaft" style="margin:100px">
+  <img width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/html5-original-wordmark.svg" />
+</a>  
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/bootstrap-original.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/css3-original-wordmark.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/git-original-wordmark.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/github-original-wordmark.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/heroku-original-wordmark.svg" />
+</a>
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRANDONTAFT&theme=<THEME_NAME>" />
