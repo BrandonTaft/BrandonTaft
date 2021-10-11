@@ -16,54 +16,55 @@
 <h2>Things I've Learned </h2>
 
 
+
 <div align='center'>
   
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="95" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/javascript-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/javascript-original.svg" />
   </a>  
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="95" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/bootstrap-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/bootstrap-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="95" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/css3-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/css3-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/GitHub-Mark-Light-64px.png" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/GitHub-Mark-Light-64px.png" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="95" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/heroku-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/heroku-original.svg" />
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/visualstudio-plain.svg"     />
+  </a>
+   <br></br>
+  <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sequelize-original.svg"     />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/visualstudio-plain.svg"     />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/react-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sequelize-original.svg"     />
-  </a>
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/react-original.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/redux-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/redux-original.svg" />
   </a><a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/python-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/python-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/postgresql-original.svg"    />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/postgresql-original.svg"    />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/npm-original-wordmark.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/npm-original-wordmark.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/nodejs-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/nodejs-original.svg" />
   </a>
+ 
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/mongodb-original.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="100" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sass-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sass-original.svg" />
   </a>
   
 </div>
