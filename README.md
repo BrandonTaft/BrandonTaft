@@ -80,7 +80,7 @@
   <img width="49%"height="180"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&theme=radical&repo=Fullstack-Inventory-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/BRANDONTAFT/Workout-Anytime">
-  <img width="49%"height="180" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Workout-Anytime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21 " />
+  <img width="49%"height="180" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Workout-Anytime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 
 <br></br>
