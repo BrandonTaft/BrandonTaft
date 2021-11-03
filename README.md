@@ -6,7 +6,7 @@
 
 
 <h3 text-decoration:none align='center'> Hi! I'm Brandon Taft <img src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/wave.gif" width="30"></h3>
-<p align='center'>I am a Software Engineer currently enrolled in a Web Development course at Digital Crafts.</p>
+<p align='center'>I am a Software Engineer who recently completed a Web Development course at Digital Crafts.</p>
 <p align='center'>For enquiries or empolyment oppurtunities, please reach out at
   <a href="mailto:btaftcan@gmail.com">btaftcan@gmail.com</a> or over on <a href="https://www.linkedin.com/in/brandonmtaft">LinkedIn</a>.</p>
 
