@@ -42,6 +42,10 @@
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/visualstudio-plain.svg"     />
   </a>
+  <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/html5-original.svg"     />
+  </a>
+ 
    <br></br>
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sequelize-original.svg"     />
