@@ -67,9 +67,15 @@
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/nodejs-original.svg" />
   </a>
+  <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="80" height="70" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/jwtpng.png" />
+  </a>
  
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sass-original.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/passportjs.png" />
   </a>
   
 </div>
