@@ -86,10 +86,10 @@
 
 <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BRANDONTAFT&theme=radical&layout=compact&exclude_lang=java+r" />
 
-<a href="https://github.com/BrandonTaft/Videogame-Inventory-App">
+<a href="https://github.com/BrandonTaft/FitBook">
   <img width="49%"height="180"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&theme=radical&repo=FitBook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/BRANDONTAFT/Workout-Anytime">
+<a href="https://github.com/BrandonTaft/Quizwiz">
   <img width="49%"height="180" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BRANDONTAFT&repo=Quizwiz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 
