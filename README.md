@@ -15,7 +15,7 @@
 <br></br>
 
 <h2> See More In My Portfolio</h2>
-<h3><a  href="https://brandontaft.net">https://brandontaft.net</a></h3>
+<h3><a  href="https://brandontaft.net">BrandonTaft.net</a></h3>
  
 <br></br>
 
