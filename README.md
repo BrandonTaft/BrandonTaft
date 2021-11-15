@@ -15,7 +15,7 @@
 <br></br>
 
 <h2> See More In My Portfolio</h2>
- <a  href="https://brandontaft.surge.sh">https://brandontaft.net</a>
+ <a  href="https://brandontaft.net">https://brandontaft.net</a>
  
 <br></br>
 
