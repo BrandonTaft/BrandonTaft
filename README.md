@@ -79,6 +79,9 @@
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/passportjs.png" />
   </a>
  
+ <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/mongo.png" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="130" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/php.png" />
   </a>&nbsp;&nbsp;&nbsp;
