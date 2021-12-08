@@ -81,12 +81,15 @@
  
  <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/mongo.png" />
+  </a>
+   <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/Vue.png" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="130" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/php.png" />
-  </a>&nbsp;&nbsp;&nbsp;
+  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/twilio.png" />
+  </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/Vue.png" />
+  <img  width="100" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/php.png" />
   </a>&nbsp;&nbsp;&nbsp;
 </div>
 
