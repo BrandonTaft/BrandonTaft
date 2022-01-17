@@ -91,6 +91,9 @@
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="100" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/php.png" />
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brandonmtaft">
+  <img  width="60" height="50" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/aws2.png" />
+  </a>
 </div>
 
 
