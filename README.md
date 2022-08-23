@@ -33,24 +33,9 @@
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/css3-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60"height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/git-original.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60"height="60"src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/GitHub-Mark-Light-64px.png" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/heroku-original.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/visualstudio-plain.svg"     />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/html5-original.svg"     />
   </a>&nbsp;&nbsp;&nbsp;
-  <br></br>
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sequelize-original.svg"     />
-  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/react-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -58,38 +43,22 @@
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/redux-original.svg" />
   </a><a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/python-original.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/postgresql-original.svg"    />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/npm-original-wordmark.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+  <br></br>
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/nodejs-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/jwtpng.png" />
-  </a>&nbsp;&nbsp;&nbsp;
- 
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/sass-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/passportjs.png" />
   </a>
- 
- <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/mongo.png" />
-  </a>
    <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/Vue.png" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/twilio.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="100" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/php.png" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="50" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/aws2.png" />
