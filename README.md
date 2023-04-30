@@ -41,9 +41,6 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/redux-original.svg" />
-  </a><a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/python-original.svg" />
-  </a>
   <br></br>
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="60" height="60" src="https://github.com/BrandonTaft/BrandonTaft/blob/main/assets/nodejs-original.svg" />
